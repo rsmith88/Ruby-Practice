@@ -1,0 +1,1 @@
+Option in broken geocoded is an empty hash returning nil. Location is returning nil). 
